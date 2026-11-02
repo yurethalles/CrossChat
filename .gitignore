@@ -1,0 +1,11 @@
+# Local build and release artifacts
+/outputs/
+/work/
+/bin/
+/obj/
+*.dll
+*.zip
+
+# Local Valheim/BepInEx installation files
+/BepInEx/
+*.log

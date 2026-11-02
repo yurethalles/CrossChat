@@ -1,0 +1,6 @@
+{
+    "name": "CrossChat",
+    "version_number": "1.0.0",
+    "description": "Links /s global chat between two Valheim servers through a direct authenticated TCP bridge.",
+    "dependencies": []
+}

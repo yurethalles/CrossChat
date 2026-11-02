@@ -1,0 +1,20 @@
+[Bridge]
+Enabled = true
+LocalServerId = Server 1
+
+[Peer]
+Host = 127.0.0.1
+Port = 24590
+
+[Listener]
+Port = 24590
+
+[Security]
+SharedSecret = REPLACE_WITH_A_LONG_RANDOM_SECRET
+
+[Test]
+DryRun = false
+DeliveryDelaySeconds = 0
+
+[Log]
+SuppressServerBotWarnings = true
